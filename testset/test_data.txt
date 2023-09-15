@@ -1,0 +1,37 @@
+Test dataset in MongoDB 
+
+[ {
+'100': { age: 55, gender: 'F', name: 'Amanda' },
+_id: ObjectId("644b9cdf7f1a6dd9230171af")
+},
+{
+'103': {
+age: 18,
+gender: 'M',
+name: 'Rufus',
+permission: { status: 'good', value: 100 }
+},
+_id: ObjectId("644b9cdf7f1a6dd9230171b0")
+},
+{
+'99': { age: 20, name: 'Celeste' },
+_id: ObjectId("644b9cdf7f1a6dd9230171b1")
+},
+{
+'109': {
+age: 56,
+gender: 'M',
+name: 'Lucas',
+score: {
+'101': 'A',
+'102': 'B',
+'103': 'C',
+q1: 89,
+q2: 99,
+q3: 93,
+q6: 95,
+q8: 90
+}
+},
+_id: ObjectId("644b9cdf7f1a6dd9230171b2")
+}]
